@@ -4,7 +4,7 @@
 ![Platform](https://img.shields.io/badge/Platform-macOS?logo=apple)
 ![License](https://img.shields.io/badge/License-Proprietary-blue?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTE4IDhoLTFWNmMwLTIuNzYtMi4yNC01LTUtNVM3IDMuMjQgNyA2djJINmMtMS4xIDAtMiAuOS0yIDJ2MTBjMCAxLjEuOSAyIDIgMmgxMmMxLjEgMCAyLS45IDItMlYxMGMwLTEuMS0uOS0yLTItMnptLTYgOWMtMS4xIDAtMi0uOS0yLTJzLjktMiAyLTIgMiAuOSAyIDItLjkgMi0yIDJ6bTMuMS05SDguOVY2YzAtMS43MSAxLjM5LTMuMSAzLjEtMy4xIDEuNzEgMCAzLjEgMS4zOSAzLjEgMy4xdjJ6Ii8+PC9zdmc+)
 
-![NeoNav Logo](NeoNav/Assets.xcassets/AppIcon.appiconset/mac512.png)
+![NeoNav Logo](./mac512.png)
 
 Have you ever scrolled through your bookmarks only to feel lost in a sea of random icons and unreadable links? It's frustrating to hunt for what you need when everything looks the same. That's why I wanted something simpler: a clean, icon-based view where each bookmark has a short, meaningful name you can set and change as you like—so everything's right at your fingertips.
 
